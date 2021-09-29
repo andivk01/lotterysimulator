@@ -1,0 +1,94 @@
+#fontType=1 > bold
+#fontType=0 > plain
+#fontType=2 > italic
+#
+#fontName,fontType,size
+#
+
+customTextField.color= 100,100,100
+customTextField.color.error= 255,108,114
+customTextField.foreground= 200,200,200
+
+addPlayerPanel.color= 80,80,80
+addPlayerPanel.foreground= 200,200,200
+
+mainPanel.color= 70,70,70
+mainPanel.foreground= 200,200,200
+
+comboBoxCellPanel.color= 65,65,65
+comboBoxCellPanel.selectedColor = 90,90,90
+comboBoxCellPanel.foreground= 200,200,200
+comboBoxCellPanel.font= TimesRoman,1,12
+
+betQuantityCellPanel.color= 75,75,75
+betQuantityCellPanel.selectedColor = 90,90,90
+betQuantityCellPanel.foreground= 200,200,200
+betQuantityCellPanel.font= TimesRoman,1,12
+
+betFieldHint= 4,ND,12,2,ND
+
+lastExtractionLbl.font= TimesRoman,1,26
+
+lastExtractionNumsLbl.font= TimesRoman,1,26
+
+simExtractionsBtn.font= Arial,1,14
+simExtractionsBtn.foreground= 200,200,200
+simExtractionsBtn.background=30,30,30
+
+quantityLbl.foreground= 200,200,200
+
+playersTable.content.font= TimesRoman,1,16
+playersTable.content.foreground= 30,30,30
+playersTable.content.background= 170,170,170
+playersTable.content.background.selected= 150,140,150
+playersTable.header.font= TimesRoman,1,15
+playersTable.header.foreground= 190,190,190
+playersTable.header.background= 100,100,100
+
+extractionsTable.content.font= TimesRoman,1,16
+extractionsTable.content.foreground= 30,30,30
+extractionsTable.content.background= 170,170,170
+extractionsTable.content.background.selected= 150,140,150
+extractionsTable.header.font= TimesRoman,1,15
+extractionsTable.header.foreground= 190,190,190
+extractionsTable.header.background= 100,100,100
+
+scrollbar.incrementUnit= 48
+scrollbar.thickness= 8
+scrollbar.colorThumb= 20,20,20
+scrollbar.colorTrack= 90,90,90
+
+saveSimulationPanel.color= 80,80,80
+saveSimulationPanel.foreground= 200,200,200
+
+playerVisibleOnChart.color= 55,55,55
+playerVisibleOnChart.foreground= 255,255,255
+playerOnChartSelected.color= 51,153,255
+playerVisibleOnChart.foreground= 255,255,255
+playerNotVisibleOnChart.color= 80,80,80
+playerNotVisibleOnChart.foreground= 255,255,255
+
+addPlayerBtn.icon= /com/gmail/andreaivkovic/graphics/resources/mainPanel.addBtn.gif
+remPlayerBtn.icon= /com/gmail/andreaivkovic/graphics/resources/mainPanel.remBtn.gif
+
+enablePlayerBtn.icon= /com/gmail/andreaivkovic/graphics/resources/mainPanel.bulbOn.png
+enablePlayerBtn.hover.icon= /com/gmail/andreaivkovic/graphics/resources/mainPanel.bulbOnHover.png
+
+disablePlayerBtn.icon= /com/gmail/andreaivkovic/graphics/resources/mainPanel.bulbOff.png
+disablePlayerBtn.hover.icon= /com/gmail/andreaivkovic/graphics/resources/mainPanel.bulbOffHover.png
+saveBtn.icon= /com/gmail/andreaivkovic/graphics/resources/mainPanel.saveBtn.png
+saveBtn.hover.icon= /com/gmail/andreaivkovic/graphics/resources/mainPanel.saveBtnHover.png
+
+settings.color= 70,70,70
+settings.foreground= 200,200,200
+settings.font= TimesRoman,1,14
+settings.settingsTitleLbl.font= TimesRoman,1,28
+settings.savingSettingsLbl.font= TimesRoman,1,20
+
+loadSimulationBtn.icon= /com/gmail/andreaivkovic/graphics/resources/mainPanel.loadSimulationBtn.png
+loadSimulationBtn.hover.icon= /com/gmail/andreaivkovic/graphics/resources/mainPanel.loadSimulationBtnHover.gif
+software.icon= /com/gmail/andreaivkovic/graphics/resources/software.icon.png
+allPlayersPanelChartOn.icon= /com/gmail/andreaivkovic/graphics/resources/allPlayersPanel.chartOn.png
+allPlayersPanelChartOn.hover.icon= /com/gmail/andreaivkovic/graphics/resources/allPlayersPanel.chartOnHover.png
+allPlayersPanelChartOff.icon= /com/gmail/andreaivkovic/graphics/resources/allPlayersPanel.chartOff.png
+allPlayersPanelChartOff.hover.icon= /com/gmail/andreaivkovic/graphics/resources/allPlayersPanel.chartOffHover.png
