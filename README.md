@@ -10,6 +10,6 @@ see the trend of winnings;
 save to a file the simulation and continue it later.
 The software is available in English, Italian, Spanish, German, French.
 
-![alt text](https://prnt.sc/1uic9an)
-![alt text](https://prnt.sc/1uicbiq)
-![alt text](https://prnt.sc/1uicdwz)
+![alt text](https://prnt.sc/1uic9an?raw=true)
+![alt text](https://prnt.sc/1uicbiq?raw=true)
+![alt text](https://prnt.sc/1uicdwz?raw=true)
