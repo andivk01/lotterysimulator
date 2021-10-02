@@ -9,3 +9,7 @@ let a new player play and choose how he will play;
 see the trend of winnings;
 save to a file the simulation and continue it later.
 The software is available in English, Italian, Spanish, German, French.
+
+![alt text](https://prnt.sc/1uic9an)
+![alt text](https://prnt.sc/1uicbiq)
+![alt text](https://prnt.sc/1uicdwz)
